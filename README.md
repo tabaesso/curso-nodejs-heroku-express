@@ -1,4 +1,4 @@
-# curso-nodejs-heroku-express-treinaweb
+# curso-nodejs-heroku-express
 💜🔥 Projeto de cadastro e listagem de cursos utilizando: Node.js, MongoDb, Jade e Heroku
 
 <i>Projeto feito baseado no curso de NodeJS da TreinaWeb</i>

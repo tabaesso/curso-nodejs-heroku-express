@@ -1,7 +1,9 @@
 # curso-nodejs-heroku-express
-💜🔥 Projeto de cadastro e listagem de cursos utilizando: Node.js, MongoDb, Jade e Heroku
+💜🔥 Projeto com CRUD de cursos utilizando: Node.js, MongoDb, Jade e Heroku
 
-<i>Projeto feito baseado no curso de NodeJS da TreinaWeb</i>
+## Descrição
+Projeto feito baseado no curso de NodeJS da TreinaWeb<br>
+Para testar o projeto clique <a href="https://serene-lake-11910.herokuapp.com/" target="blank" rel="noopener"><b>aqui</b></a>
 
 ## Requisitos
 
